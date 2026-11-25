@@ -25,7 +25,7 @@ interface Developer {
   architecture: string[];
 }
 
-const kamrul: Developer = {
+const Foysal: Developer = {
   name: "Md Foysal Ahammed",
   role: "Full-Stack Software Engineer & Ai Enthusiest",
   location: "Dhaka, Bangladesh 🇧🇩",
